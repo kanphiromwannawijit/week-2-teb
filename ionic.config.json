@@ -1,0 +1,8 @@
+{
+  "name": "week2-teb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "835b293f"
+}

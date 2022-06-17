@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "week2-teb",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
